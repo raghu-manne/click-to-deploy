@@ -23,7 +23,8 @@ Popular open stacks on Kubernetes packaged by Google.
 ## Architecture
 
 ![Architecture diagram](resources/nginx-k8s-app-architecture.png)
-
+ 
+ 
 This application uses NGINX to serve static web content. The default
 configuration includes example content.
 
